@@ -1,4 +1,4 @@
-## Eae,suave?  
+## Eae,suave? 💙
 
 Meu nome é Gabriela, mas podem me chamar de Gabs 
 
@@ -6,7 +6,7 @@ Meu nome é Gabriela, mas podem me chamar de Gabs
 - Estou me desenvolvendo na linguagem javascript.
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-### você entrar em contato comigo
+### você entrar em contato comigo📫
 
 gabriela@gmail.com
 
